@@ -2,4 +2,9 @@
 
 
 print("SMEA is going down!")
-print('COHO CHANEL')
+
+
+# simple math
+x <- 10
+y <- 25
+z <- x*y
